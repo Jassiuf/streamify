@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "DJ Khalid",
+      "description": "another one",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "Yup",
+      "id": 2
+    },
+    {
+      "title": "programatic nav edited",
+      "description": "history.push('/')",
+      "id": 6
+    },
+    {
+      "title": "my own",
+      "description": "my precious",
+      "userId": "111838918398736991061",
+      "id": 7
+    }
+  ]
+}
